@@ -5,7 +5,6 @@
  */
 #include <iostream>
 #include <iomanip>
-#include <cmath>
 #include <vector>
 
 void display_menu();
